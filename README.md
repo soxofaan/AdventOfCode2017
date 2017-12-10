@@ -1,2 +1,5 @@
 # AdventOfCode2017
-My solutions for http://adventofcode.com/2017 in Python/Jupyter
+
+My solutions in Python for http://adventofcode.com/2017
+
+see Jupyter notebook AdventOfCode2017.ipynb
